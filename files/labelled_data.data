@@ -1,0 +1,5 @@
+classes = 4
+train  = /content/drive/MyDrive/Projects/african-wildlife-detection/files/train.txt
+valid  = /content/drive/MyDrive/Projects/african-wildlife-detection/files/test.txt
+names = /content/drive/MyDrive/Projects/african-wildlife-detection/files/classes.names
+backup = /content/drive/MyDrive/Projects/african-wildlife-detection/files/weights
