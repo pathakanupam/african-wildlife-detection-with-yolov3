@@ -1,4 +1,4 @@
-## Kaggle Data: African Wildlife Detection
+## Kaggle Task: African Wildlife Detection
 
 Classes(Animals) in the dataset:\
   1.Buffalo\
