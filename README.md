@@ -1,3 +1,6 @@
-# african-wildlife-detection-with-yolov3
+## Kaggle Data: African Wildlife Detection
 
-![lkdamdkam](zebra-elephant-buffalo1.gif)
+### Classes(Animals) in the dataset
+![] files/classes.names
+
+![](zebra-elephant-buffalo1.gif)
