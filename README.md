@@ -8,6 +8,8 @@ Animal Classes in the dataset:\
 
 Data-set contains at least 376 images for each animal class collected via Google's image search function and labelled for object detection in the YOLOv3 labeling format.
 
-![](zebra-elephant-buffalo1.gif)
+![](files/zebra-elephant-buffalo1.gif)
+
+![](files/rhino1.gif)
 
 link to kaggle data-set: https://www.kaggle.com/biancaferreira/african-wildlife
