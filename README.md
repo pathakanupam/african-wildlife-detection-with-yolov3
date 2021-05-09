@@ -1,6 +1,6 @@
 ## Kaggle Task: African Wildlife Detection
 
-Classes(Animals) in the dataset:\
+Animal Classes in the dataset:\
   1.Buffalo\
   2.Elephant\
   3.Rhino\
